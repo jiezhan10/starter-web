@@ -1,6 +1,6 @@
 # Starter Web Repository
 
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from branch "feature" too.
 
 ## Introduction
 
